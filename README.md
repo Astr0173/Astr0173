@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Astr0173
-- 👀 I’m interested in astronomy and engineering
+- 👀 I’m interested in astronomy, physics and engineering
 - 🌱 I’m currently learning python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I want to work at NASA in the future
